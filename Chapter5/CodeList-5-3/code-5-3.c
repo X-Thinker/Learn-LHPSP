@@ -1,3 +1,4 @@
+/*代码清单5-3 backlog 参数*/
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>

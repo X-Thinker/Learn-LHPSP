@@ -1,3 +1,4 @@
+/*代码清单5-2 不可重入的 inet_ntoa 函数*/
 #include <arpa/inet.h>
 #include <stdio.h>
 
